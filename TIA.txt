@@ -18,7 +18,7 @@ It uses key words preceded by “Hey TIA” to begin the recording and transcrib
 This portion of the project is what analyzes people's voices to begin the recognition process.
 
 How to run TIA Tensorflow Neural Network:
-In order to run the TIA Tensorflow Neural Network successfully the user should run the file titled “TIA” in their editor and have tflearn and Tensorflow installed. 
+In order to run the TIA Tensorflow Neural Network successfully the user should run the file titled “import tflearn” in their editor and have tflearn and Tensorflow installed. 
 
 Software used in development:
 *Python 
