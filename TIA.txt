@@ -1,0 +1,21 @@
+readme
+Team Name: 
+TIA
+
+Tensorflow Neural Network Developer Name: 
+Bethel Yohannes
+
+Project Description:
+TIA will provide users & their caregivers access to integrated custom rehabilitation planning, personalized care plans and curated resources to quickly recognize and prevent a stroke. Health tracking of potentially life threatening events like TIA or stroke using dynamic Q&A assessment.
+
+TIA is a speech-to-text  app recognition designed to be a companion that understands users better than anyone around them.
+
+It uses key words preceded by “Hey TIA” to begin the recording and transcribing process while not violating your privacy rights.
+
+
+How to run Worldly:
+In order to run the TIA Tensorflow Neural Network successfully the user should run the file titled “Neural Network” in their editor. 
+
+Libraries I am using:
+*Python 
+*Tensorflow
