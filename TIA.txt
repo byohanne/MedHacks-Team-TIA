@@ -2,6 +2,9 @@ readme
 Team Name: 
 TIA
 
+Team Members:
+Bethel Yohannes, Jenny Tan, Eangelica Aton, Mitalee Garg, Marta Majcherska 
+
 Tensorflow Neural Network Developer Name: 
 Bethel Yohannes
 
@@ -12,10 +15,11 @@ TIA is a speech-to-text  app recognition designed to be a companion that underst
 
 It uses key words preceded by “Hey TIA” to begin the recording and transcribing process while not violating your privacy rights.
 
+This portion of the project is what analyzes people's voices to begin the recognition process.
 
-How to run Worldly:
-In order to run the TIA Tensorflow Neural Network successfully the user should run the file titled “Neural Network” in their editor. 
+How to run TIA Tensorflow Neural Network:
+In order to run the TIA Tensorflow Neural Network successfully the user should run the file titled “TIA” in their editor and have tflearn and Tensorflow installed. 
 
-Libraries I am using:
+Software used in development:
 *Python 
 *Tensorflow
